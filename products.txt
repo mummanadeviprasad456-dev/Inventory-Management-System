@@ -1,0 +1,6 @@
+PRD01,Laptop,Electronics,999.99,10
+PRD02,Wireless Mouse,Electronics,25.5,3
+PRD03,Coffee Mug,Kitchen,12.99,15
+PRD04,Notebook,Stationery,4.49,4
+PRDO5,keyboard,Electronics,599.0,10
+PRD06,Pen,Stationery,10.0,2
